@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherClient", "WeatherClient\WeatherClient.csproj", "{7659F7E4-7C98-45F5-A8B7-00B514681E6A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{06928770-EB41-C0EB-B7AD-2EF527FAF79D} = {06928770-EB41-C0EB-B7AD-2EF527FAF79D}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcUnaryExample", "GrpcUnaryExample\GrpcUnaryExample.csproj", "{06928770-EB41-C0EB-B7AD-2EF527FAF79D}"
 EndProject

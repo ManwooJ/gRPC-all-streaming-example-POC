@@ -16,9 +16,9 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <ProjectReference Include="..\GrpcServerStreamingExample\GrpcUnaryExample.csproj" />
-  </ItemGroup>
+  </ItemGroup>-->
 
   <ItemGroup>
     <None Update="weather.proto">

@@ -15,7 +15,7 @@ namespace GrpcUnaryExample
             var handler = new HttpClientHandler();
             handler.ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator;
 
-            using var channel = GrpcChannel.ForAddress("https://localhost:5289", new GrpcChannelOptions
+            using var channel = GrpcChannel.ForAddress("http://localhost:5000", new GrpcChannelOptions
             {
                 HttpHandler = handler
             });

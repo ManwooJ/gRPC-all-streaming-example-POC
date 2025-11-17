@@ -1,0 +1,64 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Unary RPC/GrpcUnaryExample/.vs/GrpcUnaryExample
+/Server Streaming/GrpcServerStreamingExample/.vs
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/project.nuget.cache
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/project.assets.json
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/GrpcServerStreamingExample.csproj.nuget.g.props
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/Protos/Greet.cs
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/Protos/GreetGrpc.cs
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/Protos/Weather.cs
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/Protos/WeatherGrpc.cs
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/12fbc7ffe642ca7e_greet.protodep
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/12fbc7ffe642ca7e_Weather.protodep
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/GrpcServerStreamingExample.AssemblyInfo.cs
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/GrpcServerStreamingExample.AssemblyInfoInputs.cache
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/GrpcServerStreamingExample.assets.cache
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/GrpcServerStreamingExample.csproj.AssemblyReference.cache
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/GrpcServerStreamingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/Debug/net8.0/staticwebassets.removed.txt
+/Server Streaming/GrpcServerStreamingExample/GrpcServerStreamingExample/obj/GrpcServerStreamingExample.csproj.nuget.dgspec.json
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/da39a3ee5e6b4b0d_weather.protodep
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/Weather.cs
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/WeatherClient.AssemblyInfo.cs
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/WeatherClient.AssemblyInfoInputs.cache
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/WeatherClient.assets.cache
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/WeatherClient.csproj.AssemblyReference.cache
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/WeatherClient.GeneratedMSBuildEditorConfig.editorconfig
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/Debug/net8.0/WeatherGrpc.cs
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/project.assets.json
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/project.nuget.cache
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/WeatherClient.csproj.nuget.dgspec.json
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/WeatherClient.csproj.nuget.g.props
+/Unary RPC/GrpcUnaryExample/WeatherClient/obj/WeatherClient.csproj.nuget.g.targets
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/12fbc7ffe642ca7e_Weather.protodep
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/GrpcUnaryExample.AssemblyInfo.cs
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/GrpcUnaryExample.AssemblyInfoInputs.cache
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/GrpcUnaryExample.assets.cache
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/GrpcUnaryExample.csproj.AssemblyReference.cache
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/GrpcUnaryExample.GeneratedMSBuildEditorConfig.editorconfig
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/Protos/Weather.cs
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/Protos/WeatherGrpc.cs
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/Debug/net8.0/staticwebassets.removed.txt
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/GrpcUnaryExample.csproj.nuget.dgspec.json
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/GrpcUnaryExample.csproj.nuget.g.props
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/GrpcUnaryExample.csproj.nuget.g.targets
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/project.assets.json
+/Unary RPC/GrpcUnaryExample/GrpcUnaryExample/obj/project.nuget.cache
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/da39a3ee5e6b4b0d_weather.protodep
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/Weather.cs
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/WeatherClient.AssemblyInfo.cs
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/WeatherClient.AssemblyInfoInputs.cache
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/WeatherClient.assets.cache
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/WeatherClient.csproj.AssemblyReference.cache
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/WeatherClient.GeneratedMSBuildEditorConfig.editorconfig
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/Debug/net8.0/WeatherGrpc.cs
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/project.assets.json
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/project.nuget.cache
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/WeatherClient.csproj.nuget.dgspec.json
+/Server Streaming/GrpcServerStreamingExample/WeatherClient/obj/WeatherClient.csproj.nuget.g.props
